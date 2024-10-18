@@ -1,0 +1,9 @@
+﻿  UnitTest1.cpp
+C:\Users\karin\source\repos\lab7.3\lab7.3\FileName.cpp(70,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3\UnitTest1\UnitTest1.cpp(44,5): error C2084: function 'int countRowsWithAvgLessThan(std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,int,int,int)' already has a body
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\karin\source\repos\lab7.3\lab7.3\FileName.cpp(49,5):
+      see previous definition of 'countRowsWithAvgLessThan'
+  
